@@ -1,0 +1,2 @@
+stop_reason: exit_0
+{"events": [{"type": "glass_transition", "direction": "endo", "onset_C": 78.65, "peak_C": null, "enthalpy_J_per_g": null, "tg_mid_C": 82.76, "confidence": 0.95}]}

@@ -1,0 +1,16 @@
+{
+  "input_tokens": 824,
+  "output_tokens": 10255,
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "prompt_version": "code-v2",
+  "prompt_sha256": "d2936549702c",
+  "stop_reason": "end_turn",
+  "seconds": 99.1,
+  "timestamp_utc": "2026-10-21T14:42:52+00:00",
+  "versions_in_prompt": {
+    "python": "3.14",
+    "numpy": "2.5",
+    "scipy": "1.18"
+  }
+}

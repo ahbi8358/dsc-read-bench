@@ -1,0 +1,2 @@
+stop_reason: exit_0
+{"events": [{"type": "crystallization", "direction": "exo", "onset_C": 136.68, "peak_C": 140.74, "enthalpy_J_per_g": 23.9, "tg_mid_C": null, "confidence": 0.95}]}

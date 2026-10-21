@@ -1,0 +1,2 @@
+stop_reason: exit_0
+{"events": [{"type": "melting", "direction": "endo", "onset_C": 118.21, "peak_C": 127.07, "enthalpy_J_per_g": 83.407, "tg_mid_C": null, "confidence": 0.95}]}

@@ -1,0 +1,11 @@
+{
+  "stop_reason": "exit_0",
+  "seconds": 0.46,
+  "timeout_s": 60,
+  "script": "code_claude_opus_5_5_v2.py",
+  "script_sha256": "3d76149461c3",
+  "python": "3.14.6",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "stderr_tail": []
+}
