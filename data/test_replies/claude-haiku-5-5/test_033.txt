@@ -1,0 +1,2 @@
+stop_reason: end_turn
+{"events": [{"type": "melting", "direction": "endo", "onset_C": 142, "peak_C": 149, "enthalpy_J_per_g": 105, "tg_mid_C": null, "confidence": 0.6}]}

@@ -1,0 +1,2 @@
+stop_reason: end_turn
+{"events": [{"type": "glass_transition", "direction": "endo", "onset_C": 65, "peak_C": 70, "enthalpy_J_per_g": null, "tg_mid_C": 69.5, "confidence": 0.6}]}

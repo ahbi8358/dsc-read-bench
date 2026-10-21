@@ -1,0 +1,2 @@
+stop_reason: end_turn
+{"events": [{"type": "crystallization", "direction": "exo", "onset_C": 281.2, "peak_C": 286.0, "enthalpy_J_per_g": 75, "tg_mid_C": null, "confidence": 0.7}]}

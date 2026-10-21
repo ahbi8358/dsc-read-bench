@@ -1,0 +1,2 @@
+stop_reason: exit_0
+{"events": [{"type": null, "direction": null, "onset_C": null, "peak_C": null, "enthalpy_J_per_g": null, "tg_mid_C": null, "confidence": 0.0}]}
