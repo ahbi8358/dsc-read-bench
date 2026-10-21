@@ -1,0 +1,10 @@
+{
+  "input_tokens": 1452,
+  "output_tokens": 393,
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "prompt_version": "v1",
+  "stop_reason": "end_turn",
+  "seconds": 4.9,
+  "timestamp_utc": "2026-10-21T21:59:08+00:00"
+}

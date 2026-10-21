@@ -1,0 +1,10 @@
+{
+  "input_tokens": 1452,
+  "output_tokens": 1562,
+  "model": "claude-haiku-5-5",
+  "effort": "medium",
+  "prompt_version": "v1",
+  "stop_reason": "end_turn",
+  "seconds": 11.1,
+  "timestamp_utc": "2026-10-21T22:04:28+00:00"
+}
