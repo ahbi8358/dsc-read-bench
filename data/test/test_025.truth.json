@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "type": "crystallization",
+      "direction": "exo",
+      "onset_C": 76.1241377271384,
+      "peak_C": 78.47,
+      "enthalpy_J_per_g": 22.892896253270838,
+      "tg_mid_C": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "type": "melting",
+      "direction": "endo",
+      "onset_C": 257.18573170207617,
+      "peak_C": 264.41,
+      "enthalpy_J_per_g": 82.21567870172454,
+      "tg_mid_C": null
+    }
+  ]
+}

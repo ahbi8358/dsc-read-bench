@@ -1,0 +1,15 @@
+{
+  "name": "test_062",
+  "seed": 1088,
+  "noise": "high",
+  "baseline": "sloped",
+  "event": "melting",
+  "convention": "exo_down",
+  "units": "K_Wg",
+  "style": "plain",
+  "sample_mass_mg": 9.72,
+  "heating_rate_K_per_min": 10.0,
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "matplotlib": "3.11.2"
+}
