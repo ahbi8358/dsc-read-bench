@@ -1,0 +1,14 @@
+Data, results and figures in this repository (everything under data/ and
+results/, and the write-up) are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2026 Ahmed Biby
+
+You may share and adapt them for any purpose, as long as you give credit,
+link to the license and say whether you made changes.
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested credit: Ahmed Biby, "dsc-read-bench: Can AI read a DSC curve?",
+2026, https://github.com/ahbi8358/dsc-read-bench
+
+The code (all .py files) is under the MIT License in LICENSE.
