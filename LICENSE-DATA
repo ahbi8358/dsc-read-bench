@@ -1,6 +1,9 @@
-Data, results and figures in this repository (everything under data/ and
-results/, and the write-up) are licensed under the Creative Commons
-Attribution 4.0 International License (CC BY 4.0).
+Data, results, figures and documentation in this repository (everything under
+data/ and results/, the saved replies and token counts in readers/,
+test_plot.png, the Markdown files and writeup.pdf) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0). The Python
+code inside readers/*.reply.txt is also in the matching readers/*.py file
+under the MIT License.
 
 Copyright (c) 2026 Ahmed Biby
 
